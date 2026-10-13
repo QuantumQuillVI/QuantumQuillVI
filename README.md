@@ -2,7 +2,7 @@
 
 🎓 **Dual Major B.Tech @ IIT Gandhinagar** — Artificial Intelligence & Chemical Engineering
 🔬 **ML Research Intern @ Purdue University**
-💻 **ML & Data Analyst Intern @ AccesCo Living Co.**
+💻 **AI/ML Engineer Intern @ AccesCo Living Co.**
 🤖 Interested in **Machine Learning, Deep Learning, NLP, Multimodal AI, Time-Series Forecasting & AI for Scientific Computing**
 
 ---
@@ -24,7 +24,7 @@ Currently, I'm working on **neural forecasting methods for dynamical systems**, 
 
 ## 🔬 Research & Experience
 
-### ACCESCO LIVING CO. | ML and Data Analyst Intern
+### ACCESCO LIVING CO. | AI/ML Engineer Intern
 **Aug 2026 – Present**
 
 - Built the data architecture, telemetry, and forecasting engine for Xpense Meter Intelligence, an automated household spending layer across Grokly, Swadishtt, and InstaStyle.
