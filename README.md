@@ -18,7 +18,7 @@ Currently, I'm working on **neural forecasting methods for dynamical systems**, 
 ---
 
 ## Resume 
-📄 **[Pranav's Resume](https://drive.google.com/file/d/1PZTRJzH3ChYUuX_hZ4k6hqGuCAkjbiU8/view?usp=sharing)**
+📄 **[Pranav's Resume](https://drive.google.com/file/d/10XMVww9t_O8vRVuVghHRYbNEL_Tpq2Zs/view?usp=sharing)**
 
 ---
 
