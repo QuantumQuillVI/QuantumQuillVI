@@ -127,11 +127,6 @@ Git · Linux · HPC · Streamlit · MongoDB · Mixpanel
 - 🧮 AI for scientific computing
 - 🔬 Physics-informed and weak-form machine learning
 
----
-
-## 📊 GitHub Stats
-
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumQuillVI&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
